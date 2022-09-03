@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Chilli",
+    "imageFile": "https://www.gardeningknowhow.com/wp-content/uploads/2021/05/chili-pepper.jpg",
+    "description": "This is a hot chilli",
+    "size": 500,
+    "price": 20.0
+  },
+  {
+    "name": "Chilli",
+    "imageFile": "https://www.gardeningknowhow.com/wp-content/uploads/2021/05/chili-pepper.jpg",
+    "description": "This is a hot chilli",
+    "size": 500,
+    "price": 20.0
+  },
+  {
+    "name": "Chilli",
+    "imageFile": "https://www.gardeningknowhow.com/wp-content/uploads/2021/05/chili-pepper.jpg",
+    "description": "This is a hot chilli",
+    "size": 500,
+    "price": 20.0
+  },
+  {
+    "name": "Chilli",
+    "imageFile": "https://www.gardeningknowhow.com/wp-content/uploads/2021/05/chili-pepper.jpg",
+    "description": "This is a hot chilli",
+    "size": 500,
+    "price": 20.0
+  }
+]
